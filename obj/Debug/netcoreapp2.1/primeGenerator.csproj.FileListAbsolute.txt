@@ -1,0 +1,11 @@
+C:\csharpProjects\primeGenerator\bin\Debug\netcoreapp2.1\primeGenerator.deps.json
+C:\csharpProjects\primeGenerator\bin\Debug\netcoreapp2.1\primeGenerator.runtimeconfig.json
+C:\csharpProjects\primeGenerator\bin\Debug\netcoreapp2.1\primeGenerator.runtimeconfig.dev.json
+c:\csharpProjects\primeGenerator\bin\Debug\netcoreapp2.1\primeGenerator.dll
+c:\csharpProjects\primeGenerator\bin\Debug\netcoreapp2.1\primeGenerator.pdb
+c:\csharpProjects\primeGenerator\obj\Debug\netcoreapp2.1\primeGenerator.csprojAssemblyReference.cache
+c:\csharpProjects\primeGenerator\obj\Debug\netcoreapp2.1\primeGenerator.csproj.CoreCompileInputs.cache
+c:\csharpProjects\primeGenerator\obj\Debug\netcoreapp2.1\primeGenerator.AssemblyInfoInputs.cache
+c:\csharpProjects\primeGenerator\obj\Debug\netcoreapp2.1\primeGenerator.AssemblyInfo.cs
+c:\csharpProjects\primeGenerator\obj\Debug\netcoreapp2.1\primeGenerator.dll
+c:\csharpProjects\primeGenerator\obj\Debug\netcoreapp2.1\primeGenerator.pdb
